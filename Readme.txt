@@ -1,5 +1,8 @@
 Readme
 
+이 프로그램은 openframeworks에서 실행해야함.
+openframeworks에서 generate하고 cpp 파일을 src에 모두 넣으면 실행됨
+
 실행하면
 
 윈도우 창 File 안에 start를 누르면 게임이 시작한다
